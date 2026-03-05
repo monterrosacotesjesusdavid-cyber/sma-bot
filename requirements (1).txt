@@ -1,0 +1,2 @@
+seleniumbase==4.29.5
+flask==3.0.2
